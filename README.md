@@ -18,6 +18,14 @@ A simple and clean web project that shows real-time stock prices and live line c
 => Screenshots
 
 ![UI Screenshot]
+[Screenshot1](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot1.png)
+[Screenshot2](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot2.png)
+[Screenshot3](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot3.png)
+[Screenshot4](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot4.png)
+[Screenshot5](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot5.png)
+[Screenshot6](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot6.png)
+[Screenshot7](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/Screenshot7.png)
+
 
 ![Charts Screenshot]
 
