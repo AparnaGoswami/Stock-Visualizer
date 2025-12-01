@@ -28,7 +28,8 @@ A simple and clean web project that shows real-time stock prices and live line c
 
 
 ![Charts Screenshot]
-
+[chat1](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/chart1.png)
+[chat2](https://github.com/AparnaGoswami/Stock-Visualizer/blob/main/chart2.png)
 
 => Project Files
 
